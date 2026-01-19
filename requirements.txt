@@ -1,0 +1,7 @@
+pycaw
+comtypes
+psutil
+pywin32
+customtkinter
+packaging
+pyinstaller
